@@ -1,0 +1,15 @@
+#gameImage {
+  width: 400px;
+  height: 400px;
+}
+
+.gameContent {
+  text-align: center;
+  margin-bottom: 500px;
+  line-height: 3;
+}
+
+p {
+  font-weight: bold;
+  font-size: 20px;
+}
