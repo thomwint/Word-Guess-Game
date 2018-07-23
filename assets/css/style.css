@@ -13,3 +13,8 @@ p {
   font-weight: bold;
   font-size: 20px;
 }
+
+#gameWord {
+  letter-spacing: 10px;
+  font-size: 30px;
+}
